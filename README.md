@@ -3,7 +3,7 @@
 > A **student-journey-focused**, conversion-optimized website built in  using pure HTML, CSS, and JavaScript — designed to reflect ThinkPlus’s core philosophy: *mentorship over mass lectures*.
 
 🌐 **Live Demo**:  
-https://thinkplus-website-3rl62cgwe-tanya-chauhans-projects-3289a77c.vercel.app  
+https://thinkplus-website-oudlm2ogp-tanya-chauhans-projects-3289a77c.vercel.app/ 
 
 
 
