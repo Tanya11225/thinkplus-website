@@ -1,6 +1,6 @@
 # 🚀 ThinkPlus Website — EdTech Internship Submission
 
-> A **student-journey-focused**, conversion-optimized website built in **under 3 hours** using pure HTML, CSS, and JavaScript — designed to reflect ThinkPlus’s core philosophy: *mentorship over mass lectures*.
+> A **student-journey-focused**, conversion-optimized website built in  using pure HTML, CSS, and JavaScript — designed to reflect ThinkPlus’s core philosophy: *mentorship over mass lectures*.
 
 🌐 **Live Demo**:  
 https://thinkplus-website-3rl62cgwe-tanya-chauhans-projects-3289a77c.vercel.app  
